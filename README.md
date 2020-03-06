@@ -17,3 +17,18 @@ Machine Learning Image Classification Models
 3. Random Forest
 4. Logistic Regression
 5. k-Nearest Neighbors
+
+# CNN_Optimizer.pynb
+
+Convoluted Neural Network is build using the following optimizers:
+
+1. Adam
+2. Adadelta
+3. RMSProp
+4. Adagrad
+5. Adamax
+6. SGD
+
+# CNN_HyperTuning_VGG16.pynb
+
+A pretrained CNN model - VGG16 is used and it gives an accuracy of 87.57%
