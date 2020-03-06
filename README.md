@@ -4,9 +4,9 @@
 
 Data Preprocessing
 
--Normalization
--One hot encoding
--Validation Split
+Normalization
+One hot encoding
+Validation Split
 
 Machine Learning Image Classification Models
 
